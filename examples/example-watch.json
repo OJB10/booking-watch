@@ -1,0 +1,10 @@
+{
+  "id": "example",
+  "label": "Dinner",
+  "adapter": "sevenrooms",
+  "venue": "your-venue-slug",
+  "date": "2099-01-01",
+  "party_size": 2,
+  "preferred_time": "19:30",
+  "booking_url": "https://www.sevenrooms.com/explore/your-venue-slug/reservations/create/search?date=2099-01-01&party_size=2"
+}

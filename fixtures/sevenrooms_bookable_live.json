@@ -1,0 +1,97 @@
+{
+ "data": {
+  "availability": {
+   "2099-10-07": [
+    {
+     "name": "Dinner",
+     "times": [
+      {
+       "type": "book",
+       "time": "17:00"
+      },
+      {
+       "type": "book",
+       "time": "17:00"
+      },
+      {
+       "type": "book",
+       "time": "17:15"
+      },
+      {
+       "type": "book",
+       "time": "17:15"
+      },
+      {
+       "type": "book",
+       "time": "17:30"
+      },
+      {
+       "type": "book",
+       "time": "17:30"
+      },
+      {
+       "type": "book",
+       "time": "17:45"
+      },
+      {
+       "type": "book",
+       "time": "17:45"
+      },
+      {
+       "type": "book",
+       "time": "18:00"
+      },
+      {
+       "type": "book",
+       "time": "18:15"
+      },
+      {
+       "type": "book",
+       "time": "18:30"
+      },
+      {
+       "type": "book",
+       "time": "18:45"
+      },
+      {
+       "type": "book",
+       "time": "19:00"
+      },
+      {
+       "type": "book",
+       "time": "19:15"
+      },
+      {
+       "type": "book",
+       "time": "19:30"
+      },
+      {
+       "type": "book",
+       "time": "19:45"
+      },
+      {
+       "type": "book",
+       "time": "20:00"
+      },
+      {
+       "type": "book",
+       "time": "20:15"
+      },
+      {
+       "type": "book",
+       "time": "20:30"
+      },
+      {
+       "type": "book",
+       "time": "20:45"
+      },
+      {
+       "type": "book",
+       "time": "21:00"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
